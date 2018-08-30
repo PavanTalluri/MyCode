@@ -1,0 +1,11 @@
+C:\Users\Brajeev\Documents\cube-reporting\BuyPlan\POC\Demo\BuyPlan\BuyPlan\bin\Debug\BuyPlan.dacpac
+C:\Users\Brajeev\Documents\cube-reporting\BuyPlan\POC\Demo\BuyPlan\BuyPlan\bin\Debug\BuyPlan.dll
+C:\Users\Brajeev\Documents\cube-reporting\BuyPlan\POC\Demo\BuyPlan\BuyPlan\bin\Debug\BuyPlan.pdb
+C:\Users\Brajeev\Documents\cube-reporting\BuyPlan\POC\Demo\BuyPlan\BuyPlan\obj\Debug\BuyPlan.dll
+C:\Users\Brajeev\Documents\cube-reporting\BuyPlan\POC\Demo\BuyPlan\BuyPlan\obj\Debug\BuyPlan.pdb
+C:\Users\ptallur\Desktop\BuyPlan\POC\Demo\BuyPlan\BuyPlan\bin\Debug\BuyPlan.dacpac
+C:\Users\ptallur\Desktop\BuyPlan\POC\Demo\BuyPlan\BuyPlan\bin\Debug\BuyPlan.dll
+C:\Users\ptallur\Desktop\BuyPlan\POC\Demo\BuyPlan\BuyPlan\bin\Debug\BuyPlan.pdb
+C:\Users\ptallur\Desktop\BuyPlan\POC\Demo\BuyPlan\BuyPlan\obj\Debug\BuyPlan.sqlprojAssemblyReference.cache
+C:\Users\ptallur\Desktop\BuyPlan\POC\Demo\BuyPlan\BuyPlan\obj\Debug\BuyPlan.dll
+C:\Users\ptallur\Desktop\BuyPlan\POC\Demo\BuyPlan\BuyPlan\obj\Debug\BuyPlan.pdb
